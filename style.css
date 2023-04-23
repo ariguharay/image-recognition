@@ -1,0 +1,18 @@
+.heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+
+  #camera 
+  {
+    border: 1px dashed white;
+    width: 350px;
+    height: 300px; 
+  }
+
+  body
+  {
+    color:white;
+    background-color: #574b90;
+  }
